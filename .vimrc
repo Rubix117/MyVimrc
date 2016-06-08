@@ -1,3 +1,6 @@
+" Plugins
+" NERDTree
+" CPP code completion http://vim.wikia.com/wiki/C%2B%2B_code_completion
 execute pathogen#infect()
 set nocompatible
 syntax on
